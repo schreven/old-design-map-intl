@@ -1,3 +1,3 @@
-# NatCap Project 6 - Map of International Environmental Projects 
+# NatCap Project 6 - Map of International Environmental Projects - FIRST IMPLEMENTATION
 
-https://schreven.github.io/Map-intl-env-projects/src/index.html
+https://schreven.github.io/old-design-map-intl/src/index.html
